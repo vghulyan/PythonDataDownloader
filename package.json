@@ -1,0 +1,15 @@
+{
+  "name": "trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RSI.js",
+  "scripts": {
+    "RSI": "nodemon node RSI.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
