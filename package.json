@@ -2,9 +2,9 @@
   "name": "trading",
   "version": "1.0.0",
   "description": "",
-  "main": "RSI.js",
+  "main": "index.py",
   "scripts": {
-    "RSI": "nodemon node RSI.js"
+    "download": "nodemon --exec python3 index.py"
   },
   "keywords": [],
   "author": "",
